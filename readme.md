@@ -1,3 +1,3 @@
 # Planner Web Site
 
-This is the web site that planner deplyment App will link to
+This is the web site that planner deployment App will link to

@@ -1,23 +1,29 @@
 html {
-  background-image: url("/img/NoisyGreen.png");
-  background-color: lightgreen;
+  background-image: url("/img/trianglify-export.png") ;
+  background-repeat:no-repeat;
+  background-size:cover;
 }
 body {
-  background-color: #007239;
-  color: antiquewhite;
+  color: #270722;  
+  padding: 1em;
+}
+figcaption {
+  font-size: x-small;
 }
 .planner {
-  background-color: #007239;
+  background-color: #21b534;
+  color: antiquewhite;
 }
 .snow {
   color: #3e3f3f;
-  background-color: snow;
+  background-color: rgba(255, 250, 250, .5);
+  opacity: 1;
 }
 .pure-g > div {
   box-sizing: border-box;
 }
 .l-box {
-  padding: 1em;
+  padding-left: 1em;
 }
 
 .myButton {
