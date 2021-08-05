@@ -1,6 +1,6 @@
 html {
   background-image: url("/img/trianglify-export.png") ;
-  background-repeat:no-repeat;
+  background-repeat:repeat-y;
   background-size:cover;
 }
 body {
